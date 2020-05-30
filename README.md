@@ -40,7 +40,7 @@ Youtube sources:
 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 **Badges**
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vetty88?tab=followers)
 
 ![Made with love in Bairnsdale ](https://madewithlove.now.sh/au?heart=true&template=plastic&text=Bairnsdale+)
 
