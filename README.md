@@ -17,7 +17,8 @@ Launched via Github hosting (github.io)
 Usage
 Homework Activity. Suitable for usage of simple web portfolio
 
-Screenshot of Project (Google Chrome): ![Screenshot](./screen.png "Screen Shot")
+Screenshot of Project (Google Chrome): 
+![Screenshot](./screen.PNG?raw=true)
 Web URL: https://vetty88.github.io/HMWK3-PasswordGenerator/
 Repo: https://github.com/vetty88/HMWK3-PasswordGenerator
 
