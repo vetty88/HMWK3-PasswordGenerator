@@ -17,7 +17,9 @@ Launched via Github hosting (github.io)
 Usage
 Homework Activity. Suitable for usage of simple web portfolio
 
-Screenshot of HTML (Google Chrome)
+Screenshot of HTML (Google Chrome): 
+Web URL: https://vetty88.github.io/HMWK3-PasswordGenerator/
+Repo: https://github.com/vetty88/HMWK3-PasswordGenerator
 
 
 Credits
@@ -37,7 +39,8 @@ License
 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 Badges
-GitHub followers
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+![Made with love in Bairnsdale ](https://madewithlove.now.sh/au?heart=true&template=plastic&text=Bairnsdale+)
 
 Tests
 Tests recommended in Google Chrome - use VS Code live server. Inspect feature (Google) utilised to tidy CSS code.
